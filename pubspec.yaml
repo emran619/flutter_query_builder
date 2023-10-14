@@ -1,6 +1,6 @@
 name: flutter_query_builder
 description: Instead of focusing on the details of writing queries, you'll be able to focus on the basic logic of your app. Thus, you will simplify the read and write operations in your database. This will certainly facilitate the development process.
-version: 1.0.0
+version: 1.0.1
 homepage: "https://github.com/emran619/flutter_query_builder/blob/main/lib/flutter_query_builder.dart"
 repository: "https://github.com/emran619/flutter_query_builder"
 
